@@ -1,23 +1,23 @@
 criaCartao(
-    'Felicidade',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'geografia',
+    'qual é a capital do brasil?',
+    'brasília!!!'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    'RasinformaticA'
+    'artes',
+    'quem pintou o quadro mona lisa',
+    'leonardo da vinci'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica nas aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'biologia',
+    'qual a função do ribossomos?',
+    'produzir proteínas'
 )
 
 criaCartao(
-    'Código',
-    'O que è ?',
-    '"O código é poesia lógica que transforma ideias em realidade."'
+    'biologia',
+    'oque é fotossíntese ?',
+    '"processo em que as plantas se alimenta usando a luz."'
 )
